@@ -1,5 +1,7 @@
 # vim plugin for comment-out any sources
 
+original script is http://nanasi.jp/articles/vim/commentout_source.html
+
 ## install
 
 - install Vundle(recommended)
@@ -7,7 +9,4 @@
 
 ## usage
 
-in Visual mode, select lines you want to comment-out. type "," key and character your programming language.
-ex) type ",/" adds "//" to selected lines.
-
-more information for characters, see "plugin/commentout.vim".
+see http://nanasi.jp/articles/vim/commentout_source.html
